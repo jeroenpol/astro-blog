@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: The Troll's Toll
 author: Astro Learner
 description: "A bridge troll meets the one adventurer he can't outsmart."

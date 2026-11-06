@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: The Wizard's Snack Spell
 author: Astro Learner
 description: "One apprentice, one spell, and a very confused dragon."
